@@ -30,7 +30,8 @@ Balloon Mail is a secure and efficient file-sharing platform inspired by the sim
 
 Visit the live demo here: [Balloon Mail](https://balloon-mail.netlify.app)  
 
-![Balloon Mail Screenshot](https://via.placeholder.com/1024x500)  
+![Balloon Mail Screenshot](![image](https://github.com/user-attachments/assets/c8f95d5e-c9fd-43db-b122-0c74fd81e979)
+)  
 *(Replace the placeholder image link with an actual screenshot)*
 
 ---
