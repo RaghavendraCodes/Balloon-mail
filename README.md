@@ -8,17 +8,13 @@ Balloon Mail is a secure and efficient file-sharing platform inspired by the sim
 1. [Features](#features)
 2. [Demo](#demo)
 3. [Tech Stack](#tech-stack)
-4. [Getting Started](#getting-started)
-5. [Environment Variables](#environment-variables)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Usage](#usage)
+5. [Acknowledgments](#Acknowledgments)
 
 ---
 
 ## Features 🌟
 
-- **End-to-End Encryption**: Secure file-sharing with client-side encryption and decryption.
 - **Real-Time File Sharing**: Share files instantly with no server access to content.
 - **Responsive Design**: Seamlessly accessible on desktops and mobile devices.
 - **Customizable UI**: Built with React and TailwindCSS for a sleek and modern interface.
@@ -30,9 +26,7 @@ Balloon Mail is a secure and efficient file-sharing platform inspired by the sim
 
 Visit the live demo here: [Balloon Mail](https://balloon-mail.netlify.app)  
 
-![Balloon Mail Screenshot](![image](![Screenshot 2024-11-23 160031](https://github.com/user-attachments/assets/2c5ff7ab-84a5-4dbb-99fc-1a26d09e205e)
-))  
-*(Replace the placeholder image link with an actual screenshot)*
+![Balloon Mail Screenshot]((https://github.com/user-attachments/assets/2c5ff7ab-84a5-4dbb-99fc-1a26d09e205e))  
 
 ---
 
@@ -54,3 +48,33 @@ Visit the live demo here: [Balloon Mail](https://balloon-mail.netlify.app)
 - **GitHub**: Version control and repository hosting.
 
 ---
+
+## Usage ✨
+
+### Uploading Files:
+1. Drag and drop files into the designated upload area.
+2. Files are **safely stored** in appwrite's storage, and are deleted as soon as the sender clicks on the delete button.
+3. Share the unique file popcode generated to allow others to download the file securely.
+
+### Contact Us:
+1. Visit the **Contact Us** page.
+2. Choose from the available options:
+   - Share Feedback
+   - Report a Bug
+   - Request a Feature
+3. Clicking on any option will open your email client with a pre-filled subject and body for convenience.
+4. Alternatively, share your experience or suggestions directly in the story submission form on the page.
+
+---
+
+## Acknowledgments 🙏
+
+1. **Inspiration**:  
+   The idea for Balloon Mail came during college when file-sharing between friends often needed simpler and quicker solutions. Inspired by the unique concept of *"balloon mail,"* this project was designed to make file-sharing both fun and secure.
+
+2. **Gratitude**:  
+   A big thanks to:
+   - Friends and classmates who provided initial feedback and support.
+   - Open-source communities and developers who contributed ideas and tools.
+   - All users who helped improve Balloon Mail through their feedback and suggestions. 
+
