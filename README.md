@@ -72,9 +72,4 @@ Visit the live demo here: [Balloon Mail](https://balloon-mail.netlify.app)
 1. **Inspiration**:  
    The idea for Balloon Mail came during college when file-sharing between friends often needed simpler and quicker solutions. Inspired by the unique concept of *"balloon mail,"* this project was designed to make file-sharing both fun and secure.
 
-2. **Gratitude**:  
-   A big thanks to:
-   - Friends and classmates who provided initial feedback and support.
-   - Open-source communities and developers who contributed ideas and tools.
-   - All users who helped improve Balloon Mail through their feedback and suggestions. 
 
